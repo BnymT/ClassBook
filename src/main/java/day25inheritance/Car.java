@@ -8,4 +8,13 @@ public class Car extends Vehicle {
 
     }
 
+    public Car(String make) {
+
+        System.out.println("Car 2");
+
+    }
+
+    public String model = "Accord";
+    public int km = 20000;
+
 }
