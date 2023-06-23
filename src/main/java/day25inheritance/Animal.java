@@ -29,7 +29,7 @@ public class Animal {
      --> Java da parent dan child a olan iliskilere "HAS-A Relation Ship" denir.
      --> Java da child dan parent a olan iliskilere "IS-A Relation Ship" denir.
 
-     --> Java da her class inm bir tane default constructor u vardir. Bu default constructor class in icinde gorunmez
+     --> Java da her class in bir tane default constructor u vardir. Bu default constructor class in icinde gorunmez
          Cunku default constructor "Object Class" icindedir.
      */
 

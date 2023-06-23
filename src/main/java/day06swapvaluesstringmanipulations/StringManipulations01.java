@@ -91,7 +91,7 @@ public class StringManipulations01 {
 
         boolean isExist = s.contains("");
 
-        System.out.println("isExist = " + isExist); // False
+        System.out.println("isExist = " + isExist); // true
 
         System.out.println("----------");
 

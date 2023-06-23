@@ -54,7 +54,7 @@ public class TypeCasting {
 
         byte numByte = (byte) num;
 
-        System.out.println(numByte);
+        System.out.println(numByte); // -128 - 0 - 127
 
         // Note : Donusum yaptiginiz sayi donuseceginiz data type inin sinirlari disinda ise java kullandiginiz sayi ile mod islemi yapar.
 

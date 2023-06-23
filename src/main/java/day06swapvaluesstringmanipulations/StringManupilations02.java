@@ -73,7 +73,7 @@ public class StringManupilations02 {
         9) Tum harflerden farkli tum karakterler --> [^a-zA-Z]
          */
 
-        String s6 = s.replaceAll("[0-9]","*");
+        String s6 = t.replaceAll("[0-9]","*");
 
         System.out.println("s6 = " + s6); // Ali ** yasindadir!...
 
