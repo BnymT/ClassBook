@@ -15,7 +15,7 @@ public interface Ac {
     multiple parent a ihtiyac duyariz
     Bu ihtiyaci gidermek icin java interface adinda yeni bir yapi olusturdu
     Bu yapi sayesinde bir class icin coklu interface parent olusturulabilir
-    3) interfacelerin icine conceret method konulamaz, cunku concrete methodlarda body vardir ve
+    3) interfacelerin icine concrate method konulamaz, cunku concrete methodlarda body vardir ve
     body o methodun isi nasil yapacagini belirtir. isin nasil yapilacagi bir cok detay icerir ve bu chlid
     classlarda kafa karisikligina sebep olur. Halbuki sadece yapilmasi gereken isi soyleyip
      nasil yapilaacgini childa birakirsaniz chil classin kafa karisikligini engellemis olursunuz
